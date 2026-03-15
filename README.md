@@ -4,7 +4,7 @@
 
 I've been working in IT since 2006, spending nearly two decades across endpoint management, automation, and infrastructure. For the past seven plus years I've led and grown teams, combining hands on technical work with people focused leadership. I specialize in Apple device management with Jamf Pro and love building tools that make life easier for IT departments.
 
-When I'm not managing fleets or writing scripts, I'm probably out running.
+When I'm not managing fleets, leading my teams, or writing scripts, I'm probably out running.
 
 ---
 
