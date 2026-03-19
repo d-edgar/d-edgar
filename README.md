@@ -16,6 +16,7 @@ When I'm not managing fleets, leading my teams, or writing scripts, I'm probably
 | [**macOS Admin Remediation**](https://github.com/d-edgar/macOSAdminRemediation) | Lightweight toolkit for remediating local admin rights on macOS. Works with any MDM, no agents required. |
 | [**mac_admin_toolkit**](https://github.com/d-edgar/mac_admin_toolkit) | Open source collection of macOS admin scripts, Jamf Pro extension attributes, and endpoint management tools. |
 | [**Stay Stoked**](https://apps.apple.com/us/app/stay-stoked/id6760155330) | iOS streak and countdown tracker. Habits, milestones, and savings tracking with no accounts and no ads. |
+| [**ChatHarbor**](https://chatharbor.app) | ChatHarbor is an opensource side project of mine trying to combine different LLM's and local models to have brainstorming sessions and various ships with their own cargo, yes, it's punny.|
 
 ---
 
